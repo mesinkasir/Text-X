@@ -36,7 +36,7 @@ Static page content
 
 ### Test And Result
 
-![bludit themes template](lighthouse.png)
+![bludit themes template](ligthhouse.png)
 
 Google lighthouse test
 
