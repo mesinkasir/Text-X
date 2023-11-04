@@ -40,11 +40,11 @@ Static page content
 
 Google lighthouse test
 
-![bludit themes template](desktop)
+![bludit themes template](desktop.png)
 
 Google Page Speed Desktop
 
-![bludit themes template](mobile)
+![bludit themes template](mobile.png)
 
 Google Page Speed Mobile
 
