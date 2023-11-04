@@ -54,6 +54,16 @@ GT Metrix Result
 
 -----------------------------------------------------
 
+### Installation
+
++ Make sure you have run bludit cms on your website or blog project.
++ If you need full installation package [Download Text-X with installer →](https://creativitaz.gumroad.com/l/textx)
++ Upload this source code project on your web host on project/bl-themes
++ Access backend admin - click on template / themes - and activate Text-X
++ Done
+
+-----------------------------------------------------
+
 
 present by creativitas 
 
