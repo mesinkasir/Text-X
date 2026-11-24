@@ -1,10 +1,10 @@
 # Text-X Project
 
+Download New Version installer : [Download Now →](https://creativitaz.gumroad.com/l/textx)
+
 Explore all projects: https://www.hockeycomputindo.com
 
 Free download and open source code clean minimalist blog deisgn UI for bludit flatfile CMS
-
-Download New Version installer : [Download Now →](https://creativitaz.gumroad.com/l/textx)
 
 present by creativitas 
 
