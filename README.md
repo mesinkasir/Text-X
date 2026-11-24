@@ -1,6 +1,10 @@
 # Text-X Project
 
+Explore all projects: https://www.hockeycomputindo.com
+
 Free download and open source code clean minimalist blog deisgn UI for bludit flatfile CMS
+
+Download New Version installer : [Download Now →](https://creativitaz.gumroad.com/l/textx)
 
 present by creativitas 
 
@@ -70,6 +74,8 @@ present by creativitas
 [https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas)
 
 Run Demo : [https://axcora.my.id/bludit/text-x](https://axcora.my.id/bludit/text-x)
+
+Explore all projects: https://www.hockeycomputindo.com
 
 Download with full installer : [Download Now →](https://creativitaz.gumroad.com/l/textx)
 
